@@ -1,0 +1,22 @@
+/* body{
+    background-color: blueviole;
+} */
+
+#one{
+    height: 300px;
+    width: 600px;
+    background: whitesmoke;
+    
+}
+
+#two{
+    height: 250px;
+    width: 250px;
+    background: red;
+    border-radius: 50%;
+    position: relative;
+    left: 150px;
+    top: -280px;
+    
+
+}
